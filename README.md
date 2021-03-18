@@ -6,7 +6,7 @@ LabSup is a Spring and Hibernate based Lab supplies management system to trackin
 
 ![Add new product by admin]() <br />
 
-![online purchase]() <br />
+![online purchase](onlinePurchaseFullResoluton.gif) <br />
 
 ### My work at a glance
 
